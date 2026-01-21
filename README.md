@@ -8,6 +8,9 @@ Every element has been included to ensure a complete understanding of the struct
 XRSeat is a system we built to facilitate the creation of multimodal experiences in Extended Reality (XR). 
 It is a chair device providing lighting, spatialized audio, vibro-tactile feedback and wind sensations. We submitted a scientific paper to the IMX 2026 conference with more details about this research prototype.
 
+<img width="1691" height="698" alt="Teaser_v2" src="https://github.com/user-attachments/assets/25f8d019-f1c5-433a-bdd4-99403830fdc2" />
+
+
 To start, we suggest to have a look at the Technical_Drawings_Prototype pdf to have a global view of the chair and its components.
 You then then have a look at the list of Required_Hardware, before digging into the design files in the CAD and Step_Files folder. 
 Happy exploration!
@@ -20,6 +23,7 @@ The current repo, anonymised for the submission of the paper, contains:
 * Design and reference files
 * Prototype-specific components
 
+<img width="1920" height="1080" alt="Chaise_XR_v1b" src="https://github.com/user-attachments/assets/cedf3b74-e11c-4aa8-9ae3-0228bd49bc10" />
 
 
 ## File Formats
@@ -36,7 +40,7 @@ This results in:
 * the need for adaptation or conversion if structural modifications are required.
 
 
-## Note
+## Final note
 
 Aside from this specific issue, **all other prototype elements are present and usable** in their current format.
 
